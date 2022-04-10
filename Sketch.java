@@ -1,5 +1,10 @@
 import processing.core.PApplet;
 
+/**
+ * Drawing objects using parameters from methods.
+ * @author: Stephanie Tam
+ */
+
 public class Sketch extends PApplet {
 	
 	
